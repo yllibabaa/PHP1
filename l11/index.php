@@ -10,7 +10,7 @@
 
     <title>Add User</title>
 
-    <style>
+    <style
 
          form > input{
 
